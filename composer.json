@@ -1,0 +1,17 @@
+{
+    "name": "beerandcode/modulo5",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Beerandcode\\Modulo5\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "andre costa"
+        }
+    ],
+    "require": {
+        "psr/container": "^2.0"
+    }
+}
